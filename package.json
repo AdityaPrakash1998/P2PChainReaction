@@ -1,0 +1,16 @@
+{
+  "name": "P2PChainReaction",
+  "version": "1.0.0",
+  "description": "A Peer-to-Peer implementaton of chain reaction game",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Aditya Prakash",
+  "license": "ISC",
+  "homepage": "https://adityaprakash1998.github.io/P2PChainReaction",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
